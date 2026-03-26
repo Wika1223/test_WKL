@@ -1,3 +1,4 @@
 # test_WKL
 
-to jest wpis testowy, i dodano poprawke
+
+Projekt poświęcony testowaniu technologii git workflow w budwoie kodu.
