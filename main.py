@@ -1,1 +1,1 @@
-print('hello world')
+print('geodezja rządzi!!11!')
